@@ -15,7 +15,8 @@
 	2. Answer to the problem above + script you wrote to solve it 
 	3. Brief introduction (who are you, why are you here, anything you’re specifically hoping to get out of the course)
 
-Link to the official Python [website] (https://www.python.org)
+Link to the official Python [website](https://www.python.org)
 
 !(/workspaces/ds-217-02-git-RayanHSaeed/pipinstall.jpg)
+
 !(https://i.redd.it/xcz0sm23m9r21.jpg)
