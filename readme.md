@@ -17,6 +17,6 @@
 
 Link to the official Python [website](https://www.python.org)
 
-!(/workspaces/ds-217-02-git-RayanHSaeed/pipinstall.jpg)
+![Pip Install Screenshot](pipinstall.jpg)
 
-!(https://i.redd.it/xcz0sm23m9r21.jpg)
+![Meme](https://i.redd.it/xcz0sm23m9r21.jpg)
